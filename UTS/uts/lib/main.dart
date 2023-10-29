@@ -266,12 +266,12 @@ class _MyHomePageState extends State<MyHomePage> {
                                   print('Ikon ditekan');
                                 },
                                 child: Image.network(
-                                  'https://cdn-icons-png.flaticon.com/128/9122/9122514.png',
+                                  'https://cdn-icons-png.flaticon.com/128/6897/6897656.png',
                                   height: 30,
                                 ),
                               ),
                               const Text(
-                                "Top Up",
+                                "Send Money",
                                 style: TextStyle(fontSize: 12),
                               )
                             ],
@@ -286,12 +286,12 @@ class _MyHomePageState extends State<MyHomePage> {
                                   print('Ikon ditekan');
                                 },
                                 child: Image.network(
-                                  'https://cdn-icons-png.flaticon.com/128/9122/9122514.png',
+                                  'https://cdn-icons-png.flaticon.com/128/3088/3088176.png',
                                   height: 30,
                                 ),
                               ),
                               const Text(
-                                "Top Up",
+                                "Ticket Code",
                                 style: TextStyle(fontSize: 12),
                               )
                             ],
@@ -306,12 +306,12 @@ class _MyHomePageState extends State<MyHomePage> {
                                   print('Ikon ditekan');
                                 },
                                 child: Image.network(
-                                  'https://cdn-icons-png.flaticon.com/128/9122/9122514.png',
+                                  'https://cdn-icons-png.flaticon.com/128/6831/6831818.png',
                                   height: 30,
                                 ),
                               ),
                               const Text(
-                                "Top Up",
+                                "See All",
                                 style: TextStyle(fontSize: 12),
                               )
                             ],
@@ -337,7 +337,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       print('Ikon ditekan');
                                     },
                                     child: Image.network(
-                                      'https://cdn-icons-png.flaticon.com/128/9122/9122514.png',
+                                      'https://cdn-icons-png.flaticon.com/128/4187/4187152.png',
                                       height: 40,
                                     ),
                                   ),
@@ -357,12 +357,12 @@ class _MyHomePageState extends State<MyHomePage> {
                                       // Fungsi yang akan dijalankan saat ikon ditekan
                                     },
                                     child: Image.network(
-                                      'https://cdn-icons-png.flaticon.com/128/9122/9122514.png',
+                                      'https://cdn-icons-png.flaticon.com/128/616/616494.png',
                                       height: 40,
                                     ),
                                   ),
                                   const Text(
-                                    "Pulsa/Data",
+                                    "Electricity",
                                     style: TextStyle(
                                         fontSize: 14, height: 4),
                                   )
@@ -377,12 +377,12 @@ class _MyHomePageState extends State<MyHomePage> {
                                       // Fungsi yang akan dijalankan saat ikon ditekan
                                     },
                                     child: Image.network(
-                                      'https://cdn-icons-png.flaticon.com/128/9122/9122514.png',
+                                      'https://cdn-icons-png.flaticon.com/128/2382/2382461.png',
                                       height: 40,
                                     ),
                                   ),
                                   const Text(
-                                    "Pulsa/Data",
+                                    "BPJS",
                                     style: TextStyle(
                                         fontSize: 14, height: 4),
                                   )
@@ -397,12 +397,12 @@ class _MyHomePageState extends State<MyHomePage> {
                                       // Fungsi yang akan dijalankan saat ikon ditekan
                                     },
                                     child: Image.network(
-                                      'https://cdn-icons-png.flaticon.com/128/9122/9122514.png',
+                                      'https://cdn-icons-png.flaticon.com/128/3408/3408506.png',
                                       height: 40,
                                     ),
                                   ),
                                   const Text(
-                                    "Pulsa/Data",
+                                    "mgames",
                                     style: TextStyle(
                                         fontSize: 14, height: 4),
                                   )
@@ -426,12 +426,12 @@ class _MyHomePageState extends State<MyHomePage> {
                                       // Fungsi yang akan dijalankan saat ikon ditekan
                                     },
                                     child: Image.network(
-                                      'https://cdn-icons-png.flaticon.com/128/9122/9122514.png',
+                                      'https://cdn-icons-png.flaticon.com/128/11420/11420072.png',
                                       height: 40,
                                     ),
                                   ),
                                   const Text(
-                                    "Pulsa/Data",
+                                    "TV/Internet",
                                     style: TextStyle(
                                         fontSize: 14, height: 4),
                                   )
@@ -446,12 +446,12 @@ class _MyHomePageState extends State<MyHomePage> {
                                       // Fungsi yang akan dijalankan saat ikon ditekan
                                     },
                                     child: Image.network(
-                                      'https://cdn-icons-png.flaticon.com/128/9122/9122514.png',
+                                      'https://cdn-icons-png.flaticon.com/128/427/427112.png',
                                       height: 40,
                                     ),
                                   ),
                                   const Text(
-                                    "Pulsa/Data",
+                                    "PDAM",
                                     style: TextStyle(
                                         fontSize: 14, height: 4),
                                   )
@@ -466,12 +466,12 @@ class _MyHomePageState extends State<MyHomePage> {
                                       // Fungsi yang akan dijalankan saat ikon ditekan
                                     },
                                     child: Image.network(
-                                      'https://cdn-icons-png.flaticon.com/128/9122/9122514.png',
+                                      'https://cdn-icons-png.flaticon.com/128/11578/11578813.png',
                                       height: 40,
                                     ),
                                   ),
                                   const Text(
-                                    "Pulsa/Data",
+                                    "e-Money",
                                     style: TextStyle(
                                         fontSize: 14, height: 4),
                                   )
@@ -486,12 +486,12 @@ class _MyHomePageState extends State<MyHomePage> {
                                       // Fungsi yang akan dijalankan saat ikon ditekan
                                     },
                                     child: Image.network(
-                                      'https://cdn-icons-png.flaticon.com/128/9122/9122514.png',
+                                      'https://cdn-icons-png.flaticon.com/128/11159/11159756.png',
                                       height: 40,
                                     ),
                                   ),
                                   const Text(
-                                    "Pulsa/Data",
+                                    "More",
                                     style: TextStyle(
                                         fontSize: 14, height: 4),
                                   )
